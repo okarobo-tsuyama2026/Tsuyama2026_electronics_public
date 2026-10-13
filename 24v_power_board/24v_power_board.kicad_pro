@@ -551,7 +551,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "24v_power_board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
