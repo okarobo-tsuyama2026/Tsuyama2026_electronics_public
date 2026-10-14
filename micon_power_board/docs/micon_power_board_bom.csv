@@ -1,0 +1,15 @@
+﻿Reference,Qty,Value,Footprint,説明,Buy_URL
+C1,1,100u,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,100μF50V,https://akizukidenshi.com/catalog/g/g117905/
+C2,1,10u,Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm,10μF50V X7S,https://akizukidenshi.com/catalog/g/g108155/
+C3,1,0.1u,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,0.1μF50V X7R,https://akizukidenshi.com/catalog/g/g113582/
+"C4,C5",2,2.2u,Capacitor_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm,2.2μF100V X7S,https://akizukidenshi.com/catalog/g/g117114/
+D1,1,SBM1060LSS,Diode_THT:D_DO-201AD_P3.81mm_Vertical_CathodeUp,Schottky diode,https://akizukidenshi.com/catalog/g/g116378/
+"D2,D3",2,LED,LED_THT:LED_D5.0mm,Light emitting diode,https://akizukidenshi.com/catalog/g/g111333/
+J1-J5,5,Conn_01x02_Pin,OU_connector:DF1E-2P-2.5DS,DF1E-2P-2.5DS,
+J6,1,Conn_01x02_Pin,OU_connector:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal,XT30PW-M,https://akizukidenshi.com/catalog/g/g117949/
+J7,1,Conn_01x02_Socket,OU_connector:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal,XT30PW-F,https://akizukidenshi.com/catalog/g/g117948/
+R1,1,7.5k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,Resistor,https://akizukidenshi.com/catalog/g/g125102/
+R2,1,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,Resistor,https://akizukidenshi.com/catalog/g/g125102/
+"TP1,TP2",2,TestPoint_Probe,TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm,test point (alternative probe-style design),
+TP3,1,TestPoint,TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm,test point,
+U1,1,M78AR05-1,OU_Power:M78AR05-1,,https://akizukidenshi.com/catalog/g/g113536/
